@@ -1,0 +1,18 @@
+Project 3 Notes:
+Instructions:
+    We are supposed to implement a binary search, divide and conquer approach, using a 2d array.
+
+    - They are not order left to right then down.
+    - Order just left to right OR up to down.
+
+Details:
+ File:
+    - First 2 numbers are the size of the 2d Array.
+    - Second line will contain the target number.
+    - The rest is the 2d Array data.
+
+Fix Indexing problem-----
+
+
+Output Answer:
+1 4
