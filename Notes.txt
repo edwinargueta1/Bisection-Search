@@ -16,3 +16,17 @@ Fix Indexing problem-----
 
 Output Answer:
 1 4
+
+
+11/29/2022
+Fix out of bounds problem.
+
+
+
+1   1
+3   2
+
+Conditions That Need to Be Satisfied:
+if middle = startxy{
+    pick the next one over?
+}
