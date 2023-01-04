@@ -1,4 +1,4 @@
-# comp482_project3
+# Bisection Search
 Binary search finds whether a given target item is in a sorted array by checking the middle entry. If the middle entry is the value, it has been found. If the middle entry is smaller than the target it continues the search on the right half. If the middle entry is larger than the target then it continues on the left half.
 Overview: Binary search finds whether a given target item is in a sorted array by checking the middle entry.
 If the middle entry is the value, it has been found. If the middle entry is smaller than the target it continues
